@@ -1,0 +1,14 @@
+C:\Users\MOSTEN\Documents\GitHub\simuladorBancario\bin\Debug\net8.0\simuladorBancario.exe
+C:\Users\MOSTEN\Documents\GitHub\simuladorBancario\bin\Debug\net8.0\simuladorBancario.deps.json
+C:\Users\MOSTEN\Documents\GitHub\simuladorBancario\bin\Debug\net8.0\simuladorBancario.runtimeconfig.json
+C:\Users\MOSTEN\Documents\GitHub\simuladorBancario\bin\Debug\net8.0\simuladorBancario.dll
+C:\Users\MOSTEN\Documents\GitHub\simuladorBancario\bin\Debug\net8.0\simuladorBancario.pdb
+C:\Users\MOSTEN\Documents\GitHub\simuladorBancario\obj\Debug\net8.0\simuladorBancario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOSTEN\Documents\GitHub\simuladorBancario\obj\Debug\net8.0\simuladorBancario.AssemblyInfoInputs.cache
+C:\Users\MOSTEN\Documents\GitHub\simuladorBancario\obj\Debug\net8.0\simuladorBancario.AssemblyInfo.cs
+C:\Users\MOSTEN\Documents\GitHub\simuladorBancario\obj\Debug\net8.0\simuladorBancario.csproj.CoreCompileInputs.cache
+C:\Users\MOSTEN\Documents\GitHub\simuladorBancario\obj\Debug\net8.0\simuladorBancario.dll
+C:\Users\MOSTEN\Documents\GitHub\simuladorBancario\obj\Debug\net8.0\refint\simuladorBancario.dll
+C:\Users\MOSTEN\Documents\GitHub\simuladorBancario\obj\Debug\net8.0\simuladorBancario.pdb
+C:\Users\MOSTEN\Documents\GitHub\simuladorBancario\obj\Debug\net8.0\simuladorBancario.genruntimeconfig.cache
+C:\Users\MOSTEN\Documents\GitHub\simuladorBancario\obj\Debug\net8.0\ref\simuladorBancario.dll
